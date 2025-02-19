@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:miniproject/pages/homepage.dart';
 import 'package:miniproject/pages/profilepage.dart';
-import 'package:miniproject/pages/secondprofile.dart';
 
 void main() {
   runApp(const MyApp());
